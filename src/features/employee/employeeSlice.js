@@ -200,9 +200,9 @@ const initialState = {
     role: "Senior Developer",
     email: "john.doe@example.com",
     skills: [
-      { name: "Selenium", rating: 5 },
+      { name: "Springboot", rating: 5 },
       { name: "Java", rating: 4 },
-      { name: "BDD", rating: 3 },
+      { name: "MySql", rating: 3 },
     ],
     manager: null, // Add manager to the initial state
     buddies: [], // Add buddies to the initial state
