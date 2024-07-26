@@ -41,7 +41,7 @@ const BuddyMappingTable = ({ data }) => {
   return (
     <Card
       className="buddy-mapping-card-unique"
-      title={<span className="buddy-mapping-title-unique">Buddy Mapping</span>}
+      title={<span className="buddy-mapping-title-unique">Feature Team</span>}
     >
       <Table
         columns={columns}

@@ -18,7 +18,7 @@ const LineManagerDetails = ({ manager }) => {
       <div className="line-manager-details-unique">
         <p>Name: {manager.name}</p>
         <p>Email: {manager.email}</p>
-        <p>Role: {manager.role}</p>
+        <p>Contact Details: {manager.contactno}</p>
       </div>
     </Card>
   );
